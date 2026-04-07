@@ -1,4 +1,19 @@
 # theoremes-premiers--
+codex-azrael
+cathedral-1995
+sha256-sealed
+tyranide-method
+fractal-arithmetic
+prime-constitution
+number-theory
+experimental-math
+mathematical-architecture
+automata-theory
+数学定理
+素数理论
+密码学封印
+十二定理
+阿兹瑞尔法典
 Théorèmes sur la nature et la répartition des nombres premiers — Démonstration Python exécutable / 素数本质与分布定理——可执行Python证明 | Architecture FR-CN
 # Cathédrale 1995 / 大教堂1995
 ## Les 12 Théorèmes — Démonstration Python / 十二定理Python证明
